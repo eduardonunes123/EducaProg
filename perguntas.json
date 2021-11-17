@@ -9,8 +9,13 @@
   "resposta_errada1_2": "falso",
   "resposta_errada2_2": "falso",
   
-  "pergunta3": "Um desenvolvedor implementou um programa para exibir a * média de um dado retirado de uma grande base de dados. * Para isso, foi utilizada a linguagem Python. * O trecho do código que mostra o resultado * é apresentado a seguir.\n Assinale a alternativa correta acerca desse trecho de código sabendo que a média do usuário foi 75.\n print('Sua média foi {}.'.format(med)) \n (A) O programa imprime: Sua média foi 75. \n (B) O programa imprime: Sua média foi {}. \n (C) O programa imprime: Sua média foi Null. \n (D) O programa apresenta um erro na impressão porque tenta converter tipo numérico em caractere. \n (E) O programa apresenta um erro na impressão, pois não apresenta o formato do valor.",
-  "resposta_correta1_3": "A",
-  "resposta_errada1_3": "B",
-  "resposta_errada2_3": "C"
+  "pergunta3": "A estrutura de repetição if é executada apenas* uma vez dependendo da sua condição verificada ",
+  "resposta_correta1_3": "verdadeiro",
+  "resposta_errada1_3": "falso",
+  "resposta_errada2_3": "falso"
+  
+  "pergunta4": "Em SQL para criar uma tabela se utiliza o comando INTERT INTO tabela1",
+  "resposta_correta1_4": "falso",
+  "resposta_errada1_4": "verdadeiro",
+  "resposta_errada2_4": "verdadeiro"
 }
