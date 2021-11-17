@@ -19,7 +19,7 @@
   "resposta_errada1_4": "verdadeiro",
   "resposta_errada2_4": "verdadeiro",
   
-  "pergunta5": "Ao digitar o código HTML <a href="google.com"> * acessar o Google</a> vai ser criado um link para a página do Google *",
+  "pergunta5": "Ao digitar o código HTML <a href='google.com'> * acessar o Google</a> vai ser criado um link para a página do Google *",
   "resposta_correta1_5": "verdadeiro",
   "resposta_errada1_5": "falso",
   "resposta_errada2_5": "falso"
