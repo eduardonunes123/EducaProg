@@ -9,7 +9,7 @@
   "resposta_errada1_2": "falso",
   "resposta_errada2_2": "falso",
   
-  "pergunta3": "A estrutura de repetição if é executada apenas * uma vez dependendo da sua condição verificada *",
+  "pergunta3": "A estrutura condicional if é executada apenas * uma vez dependendo da sua condição verificada *",
   "resposta_correta1_3": "verdadeiro",
   "resposta_errada1_3": "falso",
   "resposta_errada2_3": "falso",
@@ -17,5 +17,10 @@
   "pergunta4": "Em SQL para criar uma tabela se utiliza o * comando INTERT INTO tabela_1 *",
   "resposta_correta1_4": "falso",
   "resposta_errada1_4": "verdadeiro",
-  "resposta_errada2_4": "verdadeiro"
+  "resposta_errada2_4": "verdadeiro",
+  
+  "pergunta5": "Ao digitar o código HTML <a href="google.com"> * acessar o Google</a> vai ser criado um link para a página do Google *",
+  "resposta_correta1_5": "verdadeiro",
+  "resposta_errada1_5": "falso",
+  "resposta_errada2_5": "falso"
 }
